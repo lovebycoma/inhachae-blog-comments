@@ -1,1 +1,1 @@
-# inhachae-blog-comment
+Repository for comments.
